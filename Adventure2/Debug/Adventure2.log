@@ -1,0 +1,18 @@
+﻿  Main.cpp
+D:\gameC++\Adventure2\Adventure2\Main.cpp(42,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\gameC++\Adventure2\Adventure2\Main.cpp(51,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\gameC++\Adventure2\Adventure2\Main.cpp(51,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\gameC++\Adventure2\Adventure2\Main.cpp(183,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\gameC++\Adventure2\Adventure2\Main.cpp(189,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\gameC++\Adventure2\Adventure2\Main.cpp(189,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\gameC++\Adventure2\Adventure2\Main.cpp(197,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\gameC++\Adventure2\Adventure2\Main.cpp(197,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Adventure2.vcxproj -> D:\gameC++\Adventure2\Debug\Adventure2.exe
